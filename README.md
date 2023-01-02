@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Srikant jena</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikant-jena&label=Profile%20views&color=0e75b6&style=flat" alt="srikant-jena" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikant-jena" alt="srikant-jena" /></a> </p>
