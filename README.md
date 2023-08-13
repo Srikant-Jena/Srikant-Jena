@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikant-jena" alt="srikant-jena" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Srikant-jena)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
 <p align="left"> <a href="https://twitter.com/beingmesrikant" target="blank"><img src="https://img.shields.io/twitter/follow/beingmesrikant?logo=twitter&style=for-the-badge" alt="beingmesrikant" /></a> </p>
