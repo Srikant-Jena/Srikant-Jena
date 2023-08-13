@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikant-jena&label=Profile%20views&color=0e75b6&style=flat" alt="srikant-jena" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikant-jena" alt="srikant-jena" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Srikant-jena&label=Profile%20views&color=0e75b6&style=flat" alt="srikant-jena" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Srikant-jena)](https://github.com/ryo-ma/github-profile-trophy)
 
