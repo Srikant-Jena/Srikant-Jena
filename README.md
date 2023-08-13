@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Srikant-jena&label=Profile%20views&color=0e75b6&style=flat" alt="srikant-jena" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Srikant-jena)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Srikant-jena)](https://github.com/Srikant-jena/github-profile-trophy)
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
